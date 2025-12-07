@@ -4,6 +4,7 @@ The goal of this project is to analyze sales data from the 'AdventureWorks2014' 
 
 ## Tools & Technologies
 - Microsoft SQL Server Management Studio (SSMS)
+- Microsoft Power Bi Desktop
 - AdventureWorks2014 sample database
 - GitHub for version control
 
