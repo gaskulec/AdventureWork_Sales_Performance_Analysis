@@ -1,6 +1,10 @@
 # AdventureWorks2014_sales_performance_analysis
 ## Project Overview
-The goal of this project is to analyze sales data from the 'AdventureWorks2014' database to identify the most profitable products, categories, and customers.
+The primary objective of this project is to conduct a comprehensive sales performance analysis using the AdventureWorks2014 database.
+By leveraging Microsoft SQL Server (T-SQL) and Power BI, the project aims to extract actionable business intelligence to:
+- Identify Revenue Drivers: Pinpoint the top-performing products and categories to optimize inventory and marketing spend.
+- Customer Segmentation: Analyze purchasing patterns to identify high-value customers for targeted CRM and loyalty initiatives.
+- Strategic Growth: Provide a data-driven foundation for management to make informed decisions regarding regional sales strategies and product lifecycle management.
 
 ## Tools & Technologies
 - Microsoft SQL Server Management Studio (SSMS)
@@ -8,13 +12,14 @@ The goal of this project is to analyze sales data from the 'AdventureWorks2014' 
 - AdventureWorks2014 sample database
 - GitHub for version control
 
-## Repository Structure
-├── 01_top_10_products.sql              - Queries for top 10 most profitable products
-├── 02_most_profitable_categories.sql   - Queries for top product categories
-├── 03_top_customers.sql                - Queries for top customers
-├── 04_sales_by_year.sql                - Sales trends by year
-├── 05_regional_sales_performance.sql   - Regional sales performance analysis
-└── README.md                           - Project overview and documentation
+|    Repository Structure              |     Business purpose |
+| :--- | :--- |
+| '01_top_10_products.sql'             | - Identifies inventory priorities and high-margin stock |
+| '02_most_profitable_categories.sql'  | - Supports budget allocation for marketing campaigns |
+| '03_top_customers.sql'               |- Enables the Sales team to launch loyalty programs for VIPs |
+| '04_sales_by_year.sql'               | - Tracks year-over-year (YoY) growth to evaluate the company's long-term market position |
+| '05_regional_sales_performance.sql'  | - Locates underperforming regions for sales team intervention |
+| 'README.md'                          | - Project overview and documentation |
 
 ## Planned Analyses
 1. Top 10 products  
