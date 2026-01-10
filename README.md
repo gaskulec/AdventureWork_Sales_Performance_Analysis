@@ -12,7 +12,7 @@ By leveraging Microsoft SQL Server (T-SQL) and Power BI, the project aims to ext
 - AdventureWorks2014 sample database
 - GitHub for version control
 
-|    Repository Structure              |     Business purpose |
+|    Repository structure              |     Business purpose |
 | :--- | :--- |
 | '01_top_10_products.sql'             | - Identifies inventory priorities and high-margin stock |
 | '02_most_profitable_categories.sql'  | - Supports budget allocation for marketing campaigns |
