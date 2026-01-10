@@ -14,11 +14,11 @@ By leveraging Microsoft SQL Server (T-SQL) and Power BI, the project aims to ext
 
 |    Repository structure              |     Business purpose |
 | :--- | :--- |
-| ['01_top_10_products.sql'](./'01_top_10_products.sql) | - Identifies inventory priorities and high-margin stock |
-| '02_most_profitable_categories.sql'  | - Supports budget allocation for marketing campaigns |
-| '03_top_customers.sql'               |- Enables the Sales team to launch loyalty programs for VIPs |
-| '04_sales_by_year.sql'               | - Tracks year-over-year (YoY) growth to evaluate the company's long-term market position |
-| '05_regional_sales_performance.sql'  | - Locates underperforming regions for sales team intervention |
+| ['01_top_10_products.sql'](./01_top_10_products.sql) | - Identifies inventory priorities and high-margin stock |
+| ['02_most_profitable_categories.sql'](./02_most_profitable_categories.sql)| - Supports budget allocation for marketing campaigns |
+| ['03_top_customers.sql'](./03_top_customers.sql)|- Enables the Sales team to launch loyalty programs for VIPs |
+| ['04_sales_by_year.sql'](./04_sales_by_year.sql)| - Tracks year-over-year (YoY) growth to evaluate the company's long-term market position |
+| ['05_regional_sales_performance.sql'](./05_regional_sales_performance.sql)| - Locates underperforming regions for sales team intervention |
 | 'README.md'                          | - Project overview and documentation |
 
 ## Planned Analyses
