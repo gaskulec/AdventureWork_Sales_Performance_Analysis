@@ -2,9 +2,9 @@
 ## Project Overview
 The primary objective of this project is to conduct a comprehensive sales performance analysis using the AdventureWorks2014 database.
 By leveraging Microsoft SQL Server (T-SQL) and Power BI, the project aims to extract actionable business intelligence to:
-- Identify Revenue Drivers: Pinpoint the top-performing products and categories to optimize inventory and marketing spend.
-- Customer Segmentation: Analyze purchasing patterns to identify high-value customers for targeted CRM and loyalty initiatives.
-- Strategic Growth: Provide a data-driven foundation for management to make informed decisions regarding regional sales strategies and product lifecycle management.
+- Identify revenue drivers: Pinpoint the top-performing products and categories to optimize inventory and marketing spend.
+- Customer segmentation: Analyze purchasing patterns to identify high-value customers for targeted CRM and loyalty initiatives.
+- Strategic growth: Provide a data-driven foundation for management to make informed decisions regarding regional sales strategies and product lifecycle management.
 
 ## Tools & Technologies
 - Microsoft SQL Server Management Studio (SSMS)
