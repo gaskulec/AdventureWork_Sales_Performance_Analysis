@@ -14,12 +14,12 @@ By leveraging Microsoft SQL Server (T-SQL) and Power BI, the project aims to ext
 
 |    Repository structure              |     Business purpose |
 | :--- | :--- |
-| ['01_top_10_products.sql'](./01_top_10_products.sql) | - Identifies inventory priorities and high-margin stock |
-| ['02_most_profitable_categories.sql'](./02_most_profitable_categories.sql)| - Supports budget allocation for marketing campaigns |
-| ['03_top_customers.sql'](./03_top_customers.sql)|- Enables the Sales team to launch loyalty programs for VIPs |
-| ['04_sales_by_year.sql'](./04_sales_by_year.sql)| - Tracks year-over-year (YoY) growth to evaluate the company's long-term market position |
-| ['05_regional_sales_performance.sql'](./05_regional_sales_performance.sql)| - Locates underperforming regions for sales team intervention |
-| 'README.md'                          | - Project overview and documentation |
+| ['01_top_10_products.sql'](./01_top_10_products.sql) | Identifies inventory priorities and high-margin stock |
+| ['02_most_profitable_categories.sql'](./02_most_profitable_categories.sql)| Supports budget allocation for marketing campaigns |
+| ['03_top_customers.sql'](./03_top_customers.sql)| Enables the Sales team to launch loyalty programs for VIPs |
+| ['04_sales_by_year.sql'](./04_sales_by_year.sql)| Tracks year-over-year (YoY) growth to evaluate the company's long-term market position |
+| ['05_regional_sales_performance.sql'](./05_regional_sales_performance.sql)| Locates underperforming regions for sales team intervention |
+| 'README.md'                          | Project overview and documentation |
 
 ## Planned Analyses
 1. Top 10 products  
@@ -34,12 +34,13 @@ Building on the SQL analyses, I developed an interactive dashboard to visualize 
 ![Dashboard Preview](./dashboard-preview.png)
 
 Key Features:
--Interactive KPI Cards: Real-time summary of Total Revenue, Total Orders, Total Customers, and Average Order Value using DAX measures.
--Geospatial Analysis: A custom dark-mode map visualizing global sales distribution across territories.
--Dynamic Filtering: A Select Year slicer powered by a custom Calendar table, allowing for seamless data exploration across different time periods.
--Product Distribution: Breakdown of sales by product category, highlighting the dominance of the 'Bikes' segment.
+- Interactive KPI Cards: Real-time summary of Total Revenue, Total Orders, Total Customers, and Average Order Value using DAX measures.
+- Geospatial Analysis: A custom dark-mode map visualizing global sales distribution across territories.
+- Dynamic Filtering: A Select Year slicer powered by a custom Calendar table, allowing for seamless data exploration across different time periods.
+- Product Distribution: Breakdown of sales by product category, highlighting the dominance of the 'Bikes' segment.
 
 [Download full raport PDF](./Dashboard_AdventureWorks.pdf)
 [Power BI Source File](./Dashboard_AdventureWorks.pbix)
+
 ## Author
 Gabriela Kozubal
