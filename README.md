@@ -28,17 +28,18 @@ By leveraging Microsoft SQL Server (T-SQL) and Power BI, the project aims to ext
 4. Sales by year  
 5. Regional sales performance
 
-## 📊 Power BI Dashboard
-W oparciu o powyższe analizy SQL, stworzyłem interaktywny dashboard, który wizualizuje kluczowe dane biznesowe.
+## 📊 Interactive Power BI Dashboard
+Building on the SQL analyses, I developed an interactive dashboard to visualize key business metrics and performance indicators.
 
 ![Dashboard Preview](./dashboard-preview.png)
 
-### Kluczowe funkcjonalności:
-* **Interaktywne KPI**: Karty sumujące przychód i średnią wartość zamówienia.
-* **Analiza terytorialna**: Mapa sprzedaży w trybie ciemnym.
-* **Filtrowanie**: Fragmentator lat pozwalający na dynamiczną zmianę widoku danych.
+Key Features:
+-Interactive KPI Cards: Real-time summary of Total Revenue, Total Orders, Total Customers, and Average Order Value using DAX measures.
+-Geospatial Analysis: A custom dark-mode map visualizing global sales distribution across territories.
+-Dynamic Filtering: A Select Year slicer powered by a custom Calendar table, allowing for seamless data exploration across different time periods.
+-Product Distribution: Breakdown of sales by product category, highlighting the dominance of the 'Bikes' segment.
 
-[Pobierz pełny raport PDF](./Dashboard_AdventureWorks.pdf)
-
+[Download full raport PDF](./Dashboard_AdventureWorks.pdf)
+[Power BI Source File](./Dashboard_AdventureWorks.pbix)
 ## Author
 Gabriela Kozubal
