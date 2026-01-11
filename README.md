@@ -28,5 +28,17 @@ By leveraging Microsoft SQL Server (T-SQL) and Power BI, the project aims to ext
 4. Sales by year  
 5. Regional sales performance
 
+## 📊 Power BI Dashboard
+W oparciu o powyższe analizy SQL, stworzyłem interaktywny dashboard, który wizualizuje kluczowe dane biznesowe.
+
+![Dashboard Preview](./dashboard-preview.png)
+
+### Kluczowe funkcjonalności:
+* **Interaktywne KPI**: Karty sumujące przychód i średnią wartość zamówienia.
+* **Analiza terytorialna**: Mapa sprzedaży w trybie ciemnym.
+* **Filtrowanie**: Fragmentator lat pozwalający na dynamiczną zmianę widoku danych.
+
+[Pobierz pełny raport PDF](./Dashboard_AdventureWorks.pdf)
+
 ## Author
 Gabriela Kozubal
