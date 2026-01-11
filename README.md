@@ -28,7 +28,7 @@ By leveraging Microsoft SQL Server (T-SQL) and Power BI, the project aims to ext
 4. Sales by year  
 5. Regional sales performance
 
-## 📊 Interactive Power BI Dashboard
+## Interactive Power BI Dashboard
 Building on the SQL analyses, I developed an interactive dashboard to visualize key business metrics and performance indicators.
 
 ![Dashboard Preview](./dashboard-preview.png)
