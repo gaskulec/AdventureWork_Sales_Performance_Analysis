@@ -21,13 +21,6 @@ By leveraging Microsoft SQL Server (T-SQL) and Power BI, the project aims to ext
 | ['05_regional_sales_performance.sql'](./05_regional_sales_performance.sql)| Locates underperforming regions for sales team intervention |
 | 'README.md'                          | Project overview and documentation |
 
-## Planned Analyses
-1. Top 10 products  
-2. Most profitable categories  
-3. Top customers  
-4. Sales by year  
-5. Regional sales performance
-
 ## Interactive Power BI Dashboard
 Building on the SQL analyses, I developed an interactive dashboard to visualize key business metrics and performance indicators.
 
